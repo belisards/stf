@@ -1,3 +1,4 @@
+# Author: Alvaro Justen - https://github.com/turicas/
 import datetime
 import io
 import json
